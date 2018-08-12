@@ -43,6 +43,8 @@ Se esperar que el objeto que representa al bolichito responda a estos mensajes:
   P.ej. si el bolichito tiene la biblioteca en la vidriera y la remera en el mostrador, 
   entonces tiene algo de color rojo y tiene algo de color verde, pero no tiene nada de color pardo.
   
+- `puedeMejorar()`: indica si el bolichito puede mejorar en uno de los siguientes aspectos: o bien está desequilibrado (falta de equilibrio), o bien es monocromático (falta de alegría).
+  
 - `puedeOfrecerleAlgoA(persona)`: indica si alguno de los dos objetos que tiene en venta el boliche le gustan a la persona. <br>
   P.ej. si el bolichito tiene la remera en la vidriera y la pelota en el mostrador,
   entonces puede ofrecerle algo a Estefanía (la remera) y a Juan (la pelota) 
