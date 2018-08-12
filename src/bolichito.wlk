@@ -21,6 +21,10 @@ object bolichito {
 		return objetoEnMostrador.peso() > objetoEnVidriera.peso()
 	}
 	
+	method puedeMejorar() {
+		return self.esMonocromatico() or self.estaDesequilibrado()
+	}
+	
 	method tieneAlgoDeColor(color) {
 		return (objetoEnMostrador.color() == color) or (objetoEnVidriera.color() == color) 
 	}
