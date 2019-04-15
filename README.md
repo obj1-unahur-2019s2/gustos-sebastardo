@@ -23,6 +23,11 @@ Finalmente, considerar (al menos) estos objetos:
   - un _muñeco_ celeste de vidrio, de peso variable.
   - una _placa_ de cobre, de peso y color variables.
 
+**Algunos ejemplos concretos**
+- Entre los objetos que le gustan a Rosa podemos encontrar: una _pelota_, una _remera_ o un _muñeco_ cuyo peso variable fuera menor a 2000 gramos.
+- A _Luisa_ en cambio le gustan objetos del tipo: una _placa_ de cobre, o un _muñeco_ de vidrio.
+- _Juan_ tiene gustos convinados, le puede gustar: una _pelota_, un _muñeco_ celeste, o una _placa_ de cobre que pese 1500 gramos.
+
 
 ## Bolichito
 
