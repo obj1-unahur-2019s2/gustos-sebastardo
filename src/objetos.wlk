@@ -23,12 +23,12 @@ object pelota {
 }
 
 object munieco {
-	var _peso 
+	var peso 
 	
 	method color() { return celeste }
 	method material() { return vidrio }
-	method peso() { return _peso }
-	method setPeso(peso) { _peso = peso }
+	method peso() { return peso }
+	method peso(pesoNuevo) { peso = pesoNuevo }
 }
 
 // agregar biblioteca y placa
