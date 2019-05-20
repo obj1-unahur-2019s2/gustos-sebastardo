@@ -1,4 +1,7 @@
 # Gustos
+ 
+[![Build Status](https://travis-ci.org/wollok/objetosGustos.svg?branch=master)](https://travis-ci.org/wollok/objetosGustos)
+
 
 Se nos pide armar un programa que ayude a entender qué cosas le gustan a distintas personas.
 
