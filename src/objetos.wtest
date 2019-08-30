@@ -1,0 +1,10 @@
+import objetos.*
+import personas.*
+import bolichito.*
+
+// auto-generated at 29/08/2019 20:59:27
+test "test cosas que brillan" {
+	pelota.material()
+	assert.equals(false, pelota.material().brilla())
+	assert.equals(true,estefania.leGusta(pelota))
+}
